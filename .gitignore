@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+Augmented_Reality/[Ll]ibrary/
+Augmented_Reality/[Tt]emp/
+Augmented_Reality/[Oo]bj/
+Augmented_Reality/[Bb]uild/
+Augmented_Reality/[Bb]uilds/
+Augmented_Reality/[Ll]ogs/
+Augmented_Reality/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -58,3 +58,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+#vuforia
+*com.ptc.vuforia.engine-10.2.5.tgz
