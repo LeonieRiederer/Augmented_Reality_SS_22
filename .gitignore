@@ -9,6 +9,13 @@ Augmented_Reality/[Bb]uild/
 Augmented_Reality/[Bb]uilds/
 Augmented_Reality/[Ll]ogs/
 Augmented_Reality/[Mm]emoryCaptures/
+Augmented_Reality_18f/[Ll]ibrary/
+Augmented_Reality_18f/[Tt]emp/
+Augmented_Reality_18f/[Oo]bj/
+Augmented_Reality_18f/[Bb]uild/
+Augmented_Reality_18f/[Bb]uilds/
+Augmented_Reality_18f/[Ll]ogs/
+Augmented_Reality_18f/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
