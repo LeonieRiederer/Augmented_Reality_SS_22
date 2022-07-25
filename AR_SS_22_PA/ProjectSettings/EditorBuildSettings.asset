@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/AR_SS_22_PA_Scene.unity
+    guid: 70bb97f79e5f72241a92e0d6416f619d
   m_configObjects: {}
