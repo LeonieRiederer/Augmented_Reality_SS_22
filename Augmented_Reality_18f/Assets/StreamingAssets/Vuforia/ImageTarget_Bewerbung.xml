@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="IT_Bewerbung" size="0.350000 0.115320" />
+    <ImageTarget name="IT_Bewerbung" size="0.035000 0.011532" />
   </Tracking>
 </QCARConfig>
